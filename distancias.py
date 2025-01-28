@@ -16,7 +16,6 @@ def main():
     obj = Distancias()
     obj.solicitarDatos()
     obj.calcularDistancia()
-    
 
 if __name__ == "__main__":
     main()
