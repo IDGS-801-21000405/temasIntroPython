@@ -13,7 +13,9 @@ res = ''
 
 while (i != b):
     sum = sum + a
-    res = res + f'{a} + '
+    res = res + f'{a}'
     i = i + 1
+    if i != b:
+        res = res + ' + '
 
 print(res + f' = {sum}')
