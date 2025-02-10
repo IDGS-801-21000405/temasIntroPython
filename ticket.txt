@@ -1,0 +1,7 @@
+Comprador: sadsada - Total venta: $12.0 
+------------------ 
+Comprador: palomino - Total venta: $71.4 
+------------------ 
+------------------ 
+Total corte: $142.8 
+------------------ 
